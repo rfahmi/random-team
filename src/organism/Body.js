@@ -165,7 +165,7 @@ const Body = () => {
                 ) : (
                     <>
                         <label className="mb-2 text-xs font-bold text-gray-600">
-                            {perTeam} orang per-team
+                            {perTeam} orang per-kelompok
                         </label>
                         <div class="mt-2 flex gap-4">
                             <input
