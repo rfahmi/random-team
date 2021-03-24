@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "public",
+    "site": "kelompok",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
